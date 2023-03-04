@@ -1,3 +1,5 @@
+//getting http request
+
 const https = require('https');
 https.get('https://jsonplaceholder.typicode.com/posts/1', (resp) => {
  let data = '';
