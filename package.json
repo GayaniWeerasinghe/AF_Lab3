@@ -1,0 +1,19 @@
+{
+  "name": "af_lab3",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GayaniWeerasinghe/AF_Lab3.git"
+  },
+  "author": "Gayani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GayaniWeerasinghe/AF_Lab3/issues"
+  },
+  "homepage": "https://github.com/GayaniWeerasinghe/AF_Lab3#readme"
+}
